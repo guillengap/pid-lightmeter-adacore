@@ -1,0 +1,77 @@
+graph: { title: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb"
+node: { title: "_Unwind_Resume" label: "builtin_unwind_resume\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_d2iz" label: "aeabi_d2iz\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dcmpge" label: "aeabi_dcmpge\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dcmple" label: "aeabi_dcmple\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dcmpun" label: "aeabi_dcmpun\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dadd" label: "aeabi_dadd\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dmul" label: "aeabi_dmul\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_dsub" label: "aeabi_dsub\n<built-in>" shape : ellipse }
+node: { title: "__aeabi_ui2d" label: "aeabi_ui2d\n<built-in>" shape : ellipse }
+node: { title: "stm32__gpio__configure_io" label: "CONFIGURE_IO\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-gpio.ads:207:14" shape : ellipse }
+node: { title: "stm32__device__enable_clock__2" label: "ENABLE_CLOCK\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads:71:14" shape : ellipse }
+node: { title: "ada__real_time__delays__delay_until" label: "Delay_Until\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-retide.ads:42:14" shape : ellipse }
+node: { title: "ada__real_time__Oadd" label: "+\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-reatim.ads:74:13" shape : ellipse }
+node: { title: "ada__real_time__milliseconds" label: "Milliseconds\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-reatim.ads:106:13" shape : ellipse }
+node: { title: "ada__real_time__clock" label: "Clock\nC:\gnat\2017\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\a-reatim.ads:70:13" shape : ellipse }
+node: { title: "stm32__pwm__set_duty_cycle" label: "SET_DUTY_CYCLE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:149:14" shape : ellipse }
+node: { title: "__gnat_rcheck_CE_Range_Check" label: "gnat_rcheck_CE_Range_Check\n<built-in>" shape : ellipse }
+node: { title: "stm32__adc__conversion_value" label: "CONVERSION_VALUE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:330:13" shape : ellipse }
+node: { title: "stm32__adc__poll_for_status" label: "POLL_FOR_STATUS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:512:14" shape : ellipse }
+node: { title: "stm32__adc__start_conversion" label: "START_CONVERSION\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:320:14" shape : ellipse }
+node: { title: "stm32__pwm__enable_output" label: "ENABLE_OUTPUT\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:130:14" shape : ellipse }
+node: { title: "stm32__pwm__attach_pwm_channel" label: "ATTACH_PWM_CHANNEL\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:92:14" shape : ellipse }
+node: { title: "stm32__pwm__configure_pwm_timer" label: "CONFIGURE_PWM_TIMER\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:71:14" shape : ellipse }
+node: { title: "stm32__adc__enable" label: "ENABLE\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:103:14" shape : ellipse }
+node: { title: "stm32__adc__configure_regular_conversions" label: "CONFIGURE_REGULAR_CONVERSIONS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:193:14" shape : ellipse }
+node: { title: "stm32__adc__configure_unit" label: "CONFIGURE_UNIT\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:119:14" shape : ellipse }
+node: { title: "stm32__adc__configure_common_properties" label: "CONFIGURE_COMMON_PROPERTIES\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-adc.ads:617:14" shape : ellipse }
+node: { title: "stm32__device__reset_all_adc_units" label: "RESET_ALL_ADC_UNITS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads:302:14" shape : ellipse }
+node: { title: "stm32__device__enable_clock__4" label: "ENABLE_CLOCK\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads:300:14" shape : ellipse }
+node: { title: "stm32__board__initialize_leds" label: "INITIALIZE_LEDS\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\boards\stm32_common\stm32f407disco\stm32-board.ads:73:14" shape : ellipse }
+node: { title: "stm32__pwm__pwm_modulatorIP" label: "PWM_MODULATORIP\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\stm32-pwm.ads:203:9" shape : ellipse }
+node: { title: "_ada_pid_light_control" label: "Pid_Light_Control\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:20:1\n192 bytes (static)" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "_Unwind_Resume" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "ada__real_time__delays__delay_until" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:138:10" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "ada__real_time__Oadd" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:138:28" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "ada__real_time__milliseconds" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:138:30" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "ada__real_time__clock" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:138:22" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__set_duty_cycle" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:135:26" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__set_duty_cycle" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:132:26" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__set_duty_cycle" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:130:26" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_d2iz" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dsub" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_d2iz" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dadd" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dcmpge" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__gnat_rcheck_CE_Range_Check" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:127:31" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dcmpge" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dcmpun" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dcmple" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dcmpun" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dadd" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dmul" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dmul" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dadd" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dmul" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_dsub" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "__aeabi_ui2d" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__conversion_value" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:122:25" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__poll_for_status" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:121:10" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__start_conversion" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:120:10" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__enable_output" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:104:17" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__attach_pwm_channel" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:98:17" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__configure_pwm_timer" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:96:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__enable" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:94:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__configure_regular_conversions" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:87:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__configure_unit" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:82:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__adc__configure_common_properties" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:76:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__device__reset_all_adc_units" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:74:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__device__enable_clock__4" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:72:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:pid_light_control__configure_analog_input.6830" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:70:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__board__initialize_leds" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:68:4" }
+edge: { sourcename: "_ada_pid_light_control" targetname: "stm32__pwm__pwm_modulatorIP" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:58:4" }
+node: { title: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:pid_light_control__configure_analog_input.6830" label: "Configure_Analog_Input\nC:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:60:4\n24 bytes (static)" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:pid_light_control__configure_analog_input.6830" targetname: "stm32__gpio__configure_io" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:63:7" }
+edge: { sourcename: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:pid_light_control__configure_analog_input.6830" targetname: "stm32__device__enable_clock__2" label: "C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_light_control\src\pid_light_control.adb:62:7" }
+}
